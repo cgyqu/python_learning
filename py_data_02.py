@@ -66,10 +66,10 @@ words = words[-1::-1]
 print(words)
 
 ## 元组
-tuple = (1,2,3,"a","b",7.0)
-print(tuple[0])
-print(tuple[0:2])
-tuple[0] = 1
+tuples = (1,2,3,"a","b",7.0)
+print(tuples[0])
+print(tuples[0:2])
+tuples[0] = 1
 
 ### dict
 dict = {}

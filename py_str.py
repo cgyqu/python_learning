@@ -45,3 +45,11 @@ print(" test".lstrip())
 print("test ".rstrip())
 print("TEST".lower())
 print("I    am  jemmy".split()[1:3])
+
+repr("123")
+import math
+for i in range(1,11):
+    print("{0:2d}{1:3d}{2:4d}".format(i,i**2,i**3))
+
+num = 1
+print(f"{num + 1}")

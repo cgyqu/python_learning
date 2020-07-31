@@ -24,7 +24,7 @@ print(random.choice(range(5)))
 def getpasswd(length):
     b = string.digits + string.ascii_letters + string.punctuation
     pwd =''
-    for i in range(0,length):
+    for x in range(0,length):
         pwd += random.choice(b)
     return pwd
 
@@ -40,6 +40,9 @@ print("hello".capitalize())
 print("hello".center(10,'0'))
 print("".join(('1','2','3')))
 
+
+for i in range(0,10):
+    print(i)
 
 
 
