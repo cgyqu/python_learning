@@ -1,3 +1,4 @@
+id	category	ask
 1	hotelname	刚刚订单的酒店名称忘了帮我查下
 2	hotelname	用订单号查酒店
 3	hotelname	我现在还不知道我住的酒店名字 

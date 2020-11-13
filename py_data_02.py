@@ -41,7 +41,7 @@ print(5 / 2)
 print(5 // 2)
 print(2 ** 30)
 
-
+#%%
 ## list操作
 list = ['abcd',1234,2.23,'test',70.2,1]
 list1 = [1,2,3]
@@ -127,3 +127,5 @@ print(str(1))
 print(complex(x))
 
 
+
+# %%

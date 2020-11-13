@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # 字符串格式化操作
 # 多行注释，其实是字符串
+# %%
 '''
 测试1
 '''
@@ -19,6 +20,7 @@ print("str find test:", str.find('test'))
 print("str find test1:", str.find('test1'))
 print("str index test:", str.index('test'))
 
+#%% 
 try:
     print("str index test1:", str.index('test1'))
 except Exception:
@@ -47,9 +49,11 @@ print("TEST".lower())
 print("I    am  jemmy".split()[1:3])
 
 repr("123")
+#%%
 import math
 for i in range(1,11):
     print("{0:2d}{1:3d}{2:4d}".format(i,i**2,i**3))
 
 num = 1
 print(f"{num + 1}")
+# %%

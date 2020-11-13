@@ -6,7 +6,7 @@ except ZeroDivisionError as err:
 else:
     print("unexcept error")
 
-
+#%%
 try:
     raise Exception("引起异常")
 except Exception as ex:
@@ -23,3 +23,5 @@ try:
 except Exception as ex:
     print(ex)
 
+
+# %%

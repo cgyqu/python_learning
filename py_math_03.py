@@ -29,7 +29,7 @@ def getpasswd(length):
     return pwd
 
 print(getpasswd(20))
-
+#%%
 # randrange([start],stop,[step])
 # 随机0到stop-1个数之间的任意一个
 print(random.randrange(100))
@@ -46,3 +46,5 @@ for i in range(0,10):
 
 
 
+
+# %%

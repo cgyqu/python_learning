@@ -7,6 +7,9 @@ def read(path,model,data):
         print(line)
     f.close()
 
+with open("./data/stopword.txt","r+",encoding="utf-8") as outfile:
+    print(outfile.readlines())
+
 #read('./data/stopword.txt',"a+",'\ntest')
 #print("=============================")
 #read('./data/stopword.txt',"r+",'test1')

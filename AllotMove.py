@@ -1,6 +1,4 @@
 ﻿# -*- coding: utf-8 -*-
-#!D:\Program Files (x86)\Python\Python36
-import os
 import time
 import json
 import requests

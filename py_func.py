@@ -24,7 +24,6 @@ uncertainLength("cgy", 10, 20, 30)
 
 # ** 2个星号参数以dict传入
 
-
 def uncertDict(name, **argdict):
     print(argdict['a'])
     print(name, argdict)
@@ -33,7 +32,6 @@ def uncertDict(name, **argdict):
 uncertDict("cgy", a=1, b=2)
 
 # 单个*后的参数必须用关键词传入
-
 
 def f(a, b, *, c):
     return a + b + c

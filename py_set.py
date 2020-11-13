@@ -1,16 +1,19 @@
+#%%
 # list
 list = [1, 2, 3, 4, 5]
 list.insert(6, "test")
+print(list)
 print(len(list))
 print(list.pop())
 
+#%%
 # 字典
 dict = {'name': '123'}
 print(dict['name'])
 isIn = 'name' in dict
 print(isIn)
 
-
+#%%
 # 元祖
 tuple = (1, "2", 3)
 print(tuple[0:3])
@@ -18,7 +21,7 @@ print(tuple[1:])
 print(tuple[-1:])
 id(tuple)
 
-
+#%%
 # Set，无序不重复的集合
 set = {1, 2, 3, 4}
 set1 = {4, 5, 6}
@@ -27,7 +30,7 @@ set.discard(1)
 set.discard(7)
 set.remove(7)
 print(len(set), set)
-
+#%%
 # iter
 list = [1, 2, 3, 4]
 list.append(5)
@@ -71,3 +74,5 @@ for a,b in z:
 basket =['apple', 'orange', 'apple', 'pear', 'orange', 'banana']
 sets = set(basket)
 print(sets)
+
+# %%
