@@ -21,7 +21,3 @@ df2 = pd.DataFrame({'A': 1.,
                     'F': 'foo'})
 
 # %%
-df.index
-# %%
-df.to_numpy()
-# %%
