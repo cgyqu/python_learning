@@ -1,0 +1,11 @@
+unit1:150,unit2:150,epochs:35,batch_size:250,min_loss:7.830616232240573e-05
+unit1:150,unit2:150,epochs:30,batch_size:32,min_loss:8.49401403684169e-05
+unit1:150,unit2:150,epochs:30,batch_size:64,min_loss:7.325982005568221e-05
+unit1:150,unit2:150,epochs:30,batch_size:128,min_loss:6.600784399779513e-05
+unit1:150,unit2:150,epochs:25,batch_size:256,min_loss:9.624379890738055e-05
+unit1:150,unit2:150,epochs:25,batch_size:512,min_loss:0.0001152679105871357
+unit1:150,unit2:150,epochs:25,batch_size:128,hidden_layer:1,min_loss:0.00010123494575964287
+unit1:150,unit2:150,epochs:25,batch_size:128,hidden_layer:2,min_loss:9.518206934444606e-05
+unit1:150,unit2:150,epochs:25,batch_size:128,hidden_layer:0,min_loss:8.126249304041266e-05
+unit1:150,unit2:150,epochs:25,batch_size:128,hidden_layer:0,min_loss:7.70116166677326e-05
+unit1:150,unit2:150,epochs:25,batch_size:128,hidden_layer:0,min_loss:7.70116166677326e-05

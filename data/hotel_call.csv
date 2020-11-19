@@ -1,4 +1,4 @@
-Date,Time,RealCount,DroupCount,TurnOnRate,ServiceRate,ProductRate,UsageRate,ShareRate,AHT,RealManCount,NextTimeCount,PreTimeCount,Month,Day,TotalCount,DayOfWeek
+Date,Time,,DroupCounRealCountt,TurnOnRate,ServiceRate,ProductRate,UsageRate,ShareRate,AHT,RealManCount,NextTimeCount,PreTimeCount,Month,Day,TotalCount,DayOfWeek
 2020,0,130,4,0.97,0.96,0.72,0.96,0.75,3.97,26,116,0,9,1,134,2
 2020,30,115,1,0.99,0.98,0.76,0.97,0.78,4.7,26,96,134,9,1,116,2
 2020,60,84,12,0.86,0.85,0.7,0.95,0.74,3.83,15,61,116,9,1,96,2
