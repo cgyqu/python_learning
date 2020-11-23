@@ -14,5 +14,3 @@ def printinfo(msg):
     print("info:", msg)
 def printerror(msg):
     print("error:", msg)
-
-

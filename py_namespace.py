@@ -1,3 +1,7 @@
+#%%
+from utils import common
+print(common.base_dir)
+
 num = 1
 num1 = 2
 def fun1():
